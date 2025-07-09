@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/motorsports-react-portfolio/static/css/main.abd8c77a.css",
+    "main.js": "/motorsports-react-portfolio/static/js/main.988ee5b8.js",
+    "static/media/pit-strategy-planner.png": "/motorsports-react-portfolio/static/media/pit-strategy-planner.de0382a405ddeb455797.png",
+    "static/media/race-weekend-scheduler.png": "/motorsports-react-portfolio/static/media/race-weekend-scheduler.51558dd47446afd764bb.png",
+    "static/media/performance-insights-dashboard.png": "/motorsports-react-portfolio/static/media/performance-insights-dashboard.6c40fa21efa7facff862.png",
+    "static/media/lap-time-analyzer.png": "/motorsports-react-portfolio/static/media/lap-time-analyzer.3c0e4ef5edb873d0e3bd.png",
+    "static/media/car-setup-manager.png": "/motorsports-react-portfolio/static/media/car-setup-manager.91c74b0eb3dccc4d4c63.png",
+    "static/media/fan-zone-portal.png": "/motorsports-react-portfolio/static/media/fan-zone-portal.41ed8e55653f12f00bad.png",
+    "static/media/react-app-sh-logo.png": "/motorsports-react-portfolio/static/media/react-app-sh-logo.868b1d8eb944157843b8.png",
+    "index.html": "/motorsports-react-portfolio/index.html",
+    "main.abd8c77a.css.map": "/motorsports-react-portfolio/static/css/main.abd8c77a.css.map",
+    "main.988ee5b8.js.map": "/motorsports-react-portfolio/static/js/main.988ee5b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd8c77a.css",
+    "static/js/main.988ee5b8.js"
+  ]
+}
