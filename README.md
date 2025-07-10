@@ -8,19 +8,19 @@ Ideate industry-facing and fan-facing React apps highlighting technical decision
 Copilot was used for this assignment. 
 
 Initially prompted Copilot for suggestions for three different small projects to display.  It suggested:
-    - Recipe Explorer
-    - Pet Adoption Directory
-    - Mini Movie Tracker
+- Recipe Explorer
+- Pet Adoption Directory
+- Mini Movie Tracker
 
 Refined the idea to be motorsports-related.  It then suggested:
-    - **Race Weekend Scheduler:** A simple dashboard utilized race teams for organizing upcoming race weekends, practice sessions, and team meetings.
-    - **Track Condition Tracker:** A compact app that shows weather, surface conditions, and recent incidents for selected circuit
-    - **Performance Insights Dashboard:** Lightweight analytics tool showing tire usage, lap times, and sector comparisons over a race weekend.
+- **Race Weekend Scheduler:** A simple dashboard utilized race teams for organizing upcoming race weekends, practice sessions, and team meetings.
+- **Track Condition Tracker:** A compact app that shows weather, surface conditions, and recent incidents for selected circuit
+- **Performance Insights Dashboard:** Lightweight analytics tool showing tire usage, lap times, and sector comparisons over a race weekend.
 
 Further prompted it to include fans and spectators:
-    - **Live Race Companion App:** A second-screen experience for following live races with fan-centric features such as Real-time lap tracker (via API or mock data), Embedded team radio clips or live commentary, Interactive leaderboard: tap driver to get career stats.
-    - **Fan Garage:** A personal dashboard where users curate their favorite drivers, teams, liveries, and race memories.
-    - **Motorsports Media Hub:** Streamline motorsports content—YouTube interviews, TikToks, podcasts—all in one React app. 
+- **Live Race Companion App:** A second-screen experience for following live races with fan-centric features such as Real-time lap tracker (via API or mock data), Embedded team radio clips or live commentary, Interactive leaderboard: tap driver to get career stats.
+- **Fan Garage:** A personal dashboard where users curate their favorite drivers, teams, liveries, and race memories.
+- **Motorsports Media Hub:** Streamline motorsports content—YouTube interviews, TikToks, podcasts—all in one React app. 
 
 
 ## Baseline Architecture per Project Technical Requirements
@@ -44,17 +44,17 @@ Further prompted it to include fans and spectators:
 ### Routing
 
 Three routed views were created:
-    - **home.jsx**
-    - **skills.jsx**
-    - **contact.jsx**
+- **home.jsx**
+- **skills.jsx**
+- **contact.jsx**
 
 
 ### Interactivity
 
 Three features that use state:
-    - **Project filtering**
-    - **Dark/light mode**
-    - **Contact form**
+- **Project filtering**
+- **Dark/light mode**
+- **Contact form**
 
 ### Styles
 
