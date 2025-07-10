@@ -63,4 +63,4 @@ A combination of inline and styled-components were used.
 
 ## Project Postmortem
 
-Working with Copilot was a pleasant experience overall.  However, I did notice one hallucianation (?).  When asking Copilot show full code, then to refactor that code with a change, it would give me a variation.  I realized I needed to paste existing code and ask it to refactor that to ensure only the refactor was returned.
+Working with Copilot was a pleasant experience overall.  However, I did notice one hallucination (?).  When asking Copilot show full code, then to refactor that code with a change, it would give me a variation.  I realized I needed to paste existing code and ask it to refactor that to ensure only the refactor was returned.
