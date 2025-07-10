@@ -36,8 +36,8 @@ Further prompted it to include fans and spectators:
 - **project-card.jsx -** Displays individual project with title, description, and tag badges
 - **project-filter.jsx -** Dropdown for filtering projects by tag
 - **tag-badge.jsx -** Styled badge for tags (e.g. "Motorsports", "React")
-- **page-wrapper -** Theme-compatible layout wrapper for pages
-- **contact-form -** Controlled form for user messages + success modal
+- **page-wrapper.jsx -** Theme-compatible layout wrapper for pages
+- **contact-form.jsx -** Controlled form for user messages + success modal
 - **github-activity.jsx-** Fetches and displays GitHub repos related to motorsports work 
 
 
