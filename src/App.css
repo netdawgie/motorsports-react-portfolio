@@ -1,0 +1,15 @@
+body.light-mode {
+  --bg-color: #d3d3d3;
+  --text-color: #272727;
+}
+
+body.dark-mode {
+  --bg-color: #121212;
+  --text-color: #f1f1f1;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
