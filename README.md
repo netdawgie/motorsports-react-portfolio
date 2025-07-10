@@ -1,4 +1,4 @@
-### Purpose
+# Purpose
 
 Ideate industry-facing and fan-facing React apps highlighting technical decisions, features, and motorsports relevance.
 
