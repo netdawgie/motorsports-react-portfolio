@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/motorsports-react-portfolio/static/css/main.abd8c77a.css",
-    "main.js": "/motorsports-react-portfolio/static/js/main.ef396828.js",
+    "main.js": "/motorsports-react-portfolio/static/js/main.c07397eb.js",
     "static/media/pit-strategy-planner.png": "/motorsports-react-portfolio/static/media/pit-strategy-planner.de0382a405ddeb455797.png",
     "static/media/race-weekend-scheduler.png": "/motorsports-react-portfolio/static/media/race-weekend-scheduler.51558dd47446afd764bb.png",
     "static/media/performance-insights-dashboard.png": "/motorsports-react-portfolio/static/media/performance-insights-dashboard.6c40fa21efa7facff862.png",
@@ -11,10 +11,10 @@
     "static/media/react-app-sh-logo.png": "/motorsports-react-portfolio/static/media/react-app-sh-logo.868b1d8eb944157843b8.png",
     "index.html": "/motorsports-react-portfolio/index.html",
     "main.abd8c77a.css.map": "/motorsports-react-portfolio/static/css/main.abd8c77a.css.map",
-    "main.ef396828.js.map": "/motorsports-react-portfolio/static/js/main.ef396828.js.map"
+    "main.c07397eb.js.map": "/motorsports-react-portfolio/static/js/main.c07397eb.js.map"
   },
   "entrypoints": [
     "static/css/main.abd8c77a.css",
-    "static/js/main.ef396828.js"
+    "static/js/main.c07397eb.js"
   ]
 }
