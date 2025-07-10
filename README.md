@@ -25,7 +25,8 @@ Further prompted it to include fans and spectators:
 
 ## Baseline Architecture per Project Technical Requirements
 
-![file-tree](https://github.com/user-attachments/assets/f0deaa29-4e76-41f2-8d6f-9565288747dc)
+![file-tree](https://github.com/user-attachments/assets/912d8805-f258-4565-84b0-815616678ca4)
+
 
 
 ### Components Detail
