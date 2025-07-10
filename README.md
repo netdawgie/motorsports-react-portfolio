@@ -63,42 +63,4 @@ A combination of inline and styled-components were used.
 
 ## Project Postmortem
 
-Working with Copilot was a pleasant experience overall.  However, I did notice one hallucianation (?).  When asking Copilot show full code, then to refactor that code with a change, it would give me a variation.  I realized I needed to paste existing code and ask it to refactor that to ensure only the refactor was returned. 
-DME.md…]()
-
-
-### Components Detail
-
-**header.jsx -** Displays title, navigation links, and dark mode toggle
-**footer.jsx -** Fixed bottom layout element
-**project-card.jsx -** Displays individual project with title, description, and tag badges
-**project-filter.jsx -** Dropdown for filtering projects by tag
-**tag-badge.jsx -** Styled badge for tags (e.g. "Motorsports", "React")
-**page-wrapper -** Theme-compatible layout wrapper for pages
-**contact-form -** Controlled form for user messages + success modal
-**github-activity.jsx-** Fetches and displays GitHub repos related to motorsports work 
-
-
-### Routing
-
-Three routed views were created:
-    - **home.jsx**
-    - **skills.jsx**
-    - **contact.jsx**
-
-
-### Interactivity
-
-Three features that use state:
-    - **Project filtering**
-    - **Dark/light mode**
-    - **Contact form**
-
-### Styles
-
-A combination of inline and styled-components were used.
-
-
-## Project Postmortem
-
-Working with Copilot was a pleasant experience overall.  However, I did notice one hallucianation (?).  When asking Copilot show full code, then to refactor that code with a change, it would give me a variation.  I realized I needed to paste existing code and ask it to refactor that to ensure only the refactor was returned. 
+Working with Copilot was a pleasant experience overall.  However, I did notice one hallucianation (?).  When asking Copilot show full code, then to refactor that code with a change, it would give me a variation.  I realized I needed to paste existing code and ask it to refactor that to ensure only the refactor was returned.
