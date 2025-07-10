@@ -31,14 +31,14 @@ Further prompted it to include fans and spectators:
 
 ### Components Detail
 
-**header.jsx -** Displays title, navigation links, and dark mode toggle
-**footer.jsx -** Fixed bottom layout element
-**project-card.jsx -** Displays individual project with title, description, and tag badges
-**project-filter.jsx -** Dropdown for filtering projects by tag
-**tag-badge.jsx -** Styled badge for tags (e.g. "Motorsports", "React")
-**page-wrapper -** Theme-compatible layout wrapper for pages
-**contact-form -** Controlled form for user messages + success modal
-**github-activity.jsx-** Fetches and displays GitHub repos related to motorsports work 
+- **header.jsx -** Displays title, navigation links, and dark mode toggle
+- **footer.jsx -** Fixed bottom layout element
+- **project-card.jsx -** Displays individual project with title, description, and tag badges
+- **project-filter.jsx -** Dropdown for filtering projects by tag
+- **tag-badge.jsx -** Styled badge for tags (e.g. "Motorsports", "React")
+- **page-wrapper -** Theme-compatible layout wrapper for pages
+- **contact-form -** Controlled form for user messages + success modal
+- **github-activity.jsx-** Fetches and displays GitHub repos related to motorsports work 
 
 
 ### Routing
